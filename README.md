@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/e4/9e/89/e49e89224c351d8f2d9cea83bb3d815f.jpg)](https://github.com/STEELLANGEL)
+[![MasterHead](https://i.pinimg.com/originals/b5/58/d2/b558d2ffa662f1ea9e9a64936b170f0d.jpg)](https://github.com/STEELLANGEL)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=STEELLANGEL&theme=vision-friendly-dark&show_icons=true)
 <!--
 **STEELLANGEL/STEELLANGEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
